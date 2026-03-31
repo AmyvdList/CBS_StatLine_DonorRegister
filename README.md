@@ -20,8 +20,8 @@ The dataset contains information on the number of individuals and their recorded
 ## How to run the code
 * Clone the repository
 ```
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/AmyvdList/CBS_StatLine_DonorRegister.git
+cd CBS_StatLine_DonorRegister
 ```
 * Install dependences. This project uses the following Python libraries: pandas, matplotlib, seaborn
 ```
